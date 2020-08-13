@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Declaration Form</string>
+
+    <!-- TODO: Question 2: Write the codes in strings.xml to include the spinner items for country -->
+    <string-array name="country">
+        <item>Please select</item>
+        <item>Singapore</item>
+        <item>Malaysia</item>
+        <item>Indonesia</item>
+    </string-array>
+</resources>
